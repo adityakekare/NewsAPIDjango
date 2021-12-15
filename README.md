@@ -7,5 +7,7 @@
 3. Logging in with a profile.
 4. Registering a profile.
 5. Viewing users profile fields.
+6. Edit profile details.
+7. Like/ Unlike blogs.
 
 Hosted on heroku - https://blogsandnews.herokuapp.com/
